@@ -2289,6 +2289,7 @@ h1 {
 .theme-switch-wrapper {
   display: flex;
   align-items: center;
+  margin: 1rem;
 }
 
 #mode-label {
